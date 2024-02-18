@@ -8,13 +8,13 @@ This repository contains Python code for sentiment analysis algorithms, implemen
 
 The sentiment analysis algorithms included in this repository use the Bag of Words approach. Each algorithm is implemented separately for clarity and ease of understanding:
 
-1. **SVM_Sentiment_Analysis.ipynb:** Implementation of sentiment analysis using Support Vector Machines (SVM) with Bag of Words.
+1. **svm.ipynb:** Implementation of sentiment analysis using Support Vector Machines (SVM) with Bag of Words.
 
-2. **Naive_Bayes_Sentiment_Analysis.ipynb:** Implementation of sentiment analysis using Naive Bayes with Bag of Words.
+2. **naive_bayes_model.ipynb:** Implementation of sentiment analysis using Naive Bayes with Bag of Words.
 
-3. **Random_Forest_Sentiment_Analysis.ipynb:** Implementation of sentiment analysis using Random Forest with Bag of Words.
+3. **randomforest.ipynb:** Implementation of sentiment analysis using Random Forest with Bag of Words.
 
-4. **Logistic_Regression_Sentiment_Analysis.ipynb:** Implementation of sentiment analysis using Logistic Regression with Bag of Words.
+4. **logistic_regression_model.ipynb:** Implementation of sentiment analysis using Logistic Regression with Bag of Words.
 
 ## Jupyter Notebooks and Dependencies
 
@@ -44,7 +44,7 @@ To run the Jupyter Notebooks, you need to have Jupyter installed along with the 
 
 ## Detailed Research Idea
 
-The document `Research_Idea_Sentiment_Analysis.pdf` provides a comprehensive research idea that explores advanced sentiment analysis techniques, potential improvements, and future directions. It includes a literature review, methodology, and proposed experiments.
+The document `Research_Report.pdf` provides a comprehensive research idea that explores advanced sentiment analysis techniques, potential improvements, and future directions. It includes a literature review, methodology, and proposed experiments.
 
 ## Contribution
 
